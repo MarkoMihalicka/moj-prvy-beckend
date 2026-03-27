@@ -20,6 +20,41 @@ databaza = {
             "name": "Markus",
             "surname": "Martiš",
             "nickname": "cigga"
+        }, {
+            "id": 4,
+            "name": "Elizabeth",
+            "surname": "RolsRojs",
+            "nickname": "queen"
+        }, {
+            "id": 5,
+            "name": "Versace",
+            "surname": "Klúčenka",
+            "nickname": "Gucci"
+        }, {
+            "id": 6,
+            "name": "Ctibor",
+            "surname": "Cyril",
+            "nickname": "Čvajgla"
+        }, {
+            "id": 7,
+            "name": "Lukáš",
+            "surname": "Sfúkaš",
+            "nickname": None
+        }, {
+            "id": 8,
+            "name": "Roman",
+            "surname": "Evka",
+            "nickname": "detičky krásne"
+        }, {
+            "id": 9,
+            "name": "Tomáš",
+            "surname": "Maštalír",
+            "nickname": "herec"
+        }, {
+            "id": 10,
+            "name": "Patrik",
+            "surname": "Vrbovský",
+            "nickname": "Rytmus"
         }
 
     ]
@@ -57,4 +92,3 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
